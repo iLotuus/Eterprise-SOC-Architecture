@@ -49,7 +49,7 @@ Este es un concepto de arquitectura para un Security Operations Center (SOC) com
 
 ## 📊 Diagrama de Arquitectura
 
-![Arquitectura SOC](Preview/soc-architecture.png)
+![Arquitectura SOC](Preview/Diagrama-SOC.png)
 
 *Los componentes en amarillo son planes a muy largo plazo*
 
